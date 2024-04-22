@@ -1,6 +1,8 @@
 # BotDisc 🤖
 
-Este é um bot do Discord desenvolvido em Python. Ele tem várias funcionalidades, incluindo responder a comandos específicos, acolher novos membros e conduzir um jogo de adivinhação de números. 👾
+### Este é um bot do Discord desenvolvido em Python. Ele tem várias funcionalidades, incluindo responder a comandos específicos, acolher novos membros e conduzir um jogo de adivinhação de números. 👾
+
+![Sem título](https://github.com/manuggetts/botdisc/assets/141872152/a69561cb-a559-4b7a-9edb-406ee26c96df)
 
 ## Funcionalidades
 
